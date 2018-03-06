@@ -1,0 +1,14 @@
+require 'bundler/setup'
+require 'padrino-core/cli/rake'
+require 'pact_broker/client/tasks'
+
+PadrinoTasks.use(:database)
+PadrinoTasks.use(:activerecord)
+PadrinoTasks.init
+
+PactBroker::Client::PublicationTask.new do | task |
+  task.consumer_version = '1.0.0'
+  task.pattern = 'spec/pacts/new_padrino1-new_padrino2.json' #默认路径是'spec/pacts/*.json'
+  task.pact_broker_base_url = "http://localhost:8080"
+  task.write_method = :merge # 把已公布的协议合并到现有的协议中，而不是在现有协议中覆盖
+end

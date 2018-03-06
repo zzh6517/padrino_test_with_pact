@@ -1,0 +1,50 @@
+{
+  "consumer": {
+    "name": "new padrino1"
+  },
+  "provider": {
+    "name": "new padrino2"
+  },
+  "interactions": [
+    {
+      "description": "new_padrino2接受一个获取string数据的http请求",
+      "providerState": "new_padrino2将返回string数据",
+      "request": {
+        "method": "get",
+        "path": "/provider.string"
+      },
+      "response": {
+        "status": 200,
+        "headers": {
+          "Content-Type": "text/html;charset=utf-8"
+        },
+        "body": "新年快乐"
+      }
+    },
+    {
+      "description": "new_padrino2接受一个获取json数据的http请求",
+      "providerState": "new_padrino2将返回json数据",
+      "request": {
+        "method": "get",
+        "path": "/provider.json",
+        "query": "city=%E4%B8%8A%E6%B5%B7"
+      },
+      "response": {
+        "status": 200,
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "body": {
+          "城市": "上海",
+          "天气": "晴",
+          "温度": "20度"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "pactSpecification": {
+      "version": "2.0.0"
+    }
+  }
+}

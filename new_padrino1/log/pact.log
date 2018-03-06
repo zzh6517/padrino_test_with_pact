@@ -1,0 +1,965 @@
+# Logfile created on 2018-02-07 14:31:28 +0800 by logger.rb/54362
+I, [2018-02-07T14:31:28.709374 #16938]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000002b04a08> on port 1234...
+I, [2018-02-07T14:31:28.822682 #16938]  INFO -- : Started on port 1234
+I, [2018-02-07T14:31:29.329519 #16938]  INFO -- : Clearing all expectations
+I, [2018-02-07T14:31:29.341508 #16938]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-07T14:31:29.350519 #16938] DEBUG -- : Supposed to be stopping
+I, [2018-02-07T14:31:46.968469 #16985]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000003024880> on port 1234...
+I, [2018-02-07T14:31:47.021477 #16985]  INFO -- : Started on port 1234
+I, [2018-02-07T14:31:47.067752 #16985]  INFO -- : Clearing all expectations
+I, [2018-02-07T14:31:47.078046 #16985]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-07T14:31:47.087169 #16985] DEBUG -- : Supposed to be stopping
+I, [2018-02-07T14:37:20.700075 #17141]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000002a0b598> on port 1234...
+I, [2018-02-07T14:37:20.812363 #17141]  INFO -- : Started on port 1234
+I, [2018-02-07T14:37:20.958760 #17141]  INFO -- : Clearing all expectations
+I, [2018-02-07T14:37:20.982367 #17141]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-07T14:37:20.993280 #17141] DEBUG -- : Supposed to be stopping
+I, [2018-02-07T14:45:38.654513 #17560]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000026b7ae0> on port 1234...
+I, [2018-02-07T14:45:38.803202 #17560]  INFO -- : Started on port 1234
+I, [2018-02-07T14:45:38.861819 #17560]  INFO -- : Clearing all expectations
+I, [2018-02-07T14:45:38.879267 #17560]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-07T14:45:38.891706 #17560] DEBUG -- : Supposed to be stopping
+I, [2018-02-07T14:46:01.726201 #17617]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000002efd7b8> on port 1234...
+I, [2018-02-07T14:46:01.877262 #17617]  INFO -- : Started on port 1234
+I, [2018-02-07T14:46:01.940760 #17617]  INFO -- : Clearing all expectations
+I, [2018-02-07T14:46:01.964486 #17617]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-07T14:46:01.978763 #17617] DEBUG -- : Supposed to be stopping
+I, [2018-02-07T14:46:28.603735 #17679]  INFO -- : Clearing all expectations
+I, [2018-02-07T14:46:28.603971 #17679]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+I, [2018-02-07T14:51:49.902911 #17755]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000000e0deb8> on port 1234...
+I, [2018-02-07T14:51:50.043669 #17755]  INFO -- : Started on port 1234
+I, [2018-02-07T14:54:10.308643 #17795]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001c87d40> on port 1234...
+I, [2018-02-07T14:54:10.418426 #17795]  INFO -- : Started on port 1234
+I, [2018-02-07T14:54:10.437631 #17795]  INFO -- : Clearing all expectations
+I, [2018-02-07T14:54:10.514340 #17795]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-07T14:54:10.533408 #17795] DEBUG -- : Supposed to be stopping
+I, [2018-02-07T15:08:40.248655 #18717]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001a42cd8> on port 1234...
+I, [2018-02-07T15:08:40.400527 #18717]  INFO -- : Started on port 1234
+I, [2018-02-07T15:08:40.468720 #18717]  INFO -- : Clearing all expectations
+I, [2018-02-07T15:08:40.485145 #18717]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-07T15:08:40.503473 #18717] DEBUG -- : Supposed to be stopping
+I, [2018-02-07T15:09:28.426989 #18815]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000002da1ae0> on port 1234...
+I, [2018-02-07T15:09:28.579483 #18815]  INFO -- : Started on port 1234
+I, [2018-02-07T15:09:28.649184 #18815]  INFO -- : Clearing all expectations
+I, [2018-02-07T15:09:28.671368 #18815]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-07T15:09:28.691256 #18815] DEBUG -- : Supposed to be stopping
+I, [2018-02-07T15:09:41.493478 #18871]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000034ff8f0> on port 1234...
+I, [2018-02-07T15:09:41.646779 #18871]  INFO -- : Started on port 1234
+I, [2018-02-07T15:09:41.707147 #18871]  INFO -- : Clearing all expectations
+I, [2018-02-07T15:09:41.725095 #18871]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-07T15:09:41.739938 #18871] DEBUG -- : Supposed to be stopping
+I, [2018-02-07T15:11:14.528366 #18984]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001bd0e88> on port 1234...
+I, [2018-02-07T15:11:14.678675 #18984]  INFO -- : Started on port 1234
+I, [2018-02-07T15:11:14.740896 #18984]  INFO -- : Clearing all expectations
+I, [2018-02-07T15:11:14.759269 #18984]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+I, [2018-02-07T15:11:14.769261 #18984]  INFO -- : Clearing all expectations
+I, [2018-02-07T15:11:14.805480 #18984]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-07T15:11:14.816784 #18984] DEBUG -- : Supposed to be stopping
+I, [2018-02-07T15:12:05.962808 #19093]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000036e8900> on port 1234...
+I, [2018-02-07T15:12:06.115099 #19093]  INFO -- : Started on port 1234
+I, [2018-02-07T15:12:06.176423 #19093]  INFO -- : Clearing all expectations
+I, [2018-02-07T15:12:06.193749 #19093]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-07T15:12:06.216340 #19093] DEBUG -- : Supposed to be stopping
+I, [2018-02-07T15:17:19.948463 #19700]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000026bfe48> on port 1234...
+I, [2018-02-07T15:17:20.123209 #19700]  INFO -- : Started on port 1234
+I, [2018-02-07T15:17:51.934336 #19733]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000002ca8bc0> on port 1234...
+I, [2018-02-07T15:17:52.074534 #19733]  INFO -- : Started on port 1234
+I, [2018-02-07T15:17:52.126520 #19733]  INFO -- : Clearing all expectations
+I, [2018-02-07T15:17:52.134740 #19733]  INFO -- : Verifying interactions for test pact pact with provider can process the json payload from the provider
+D, [2018-02-07T15:17:52.144332 #19733] DEBUG -- : Supposed to be stopping
+I, [2018-02-07T15:18:30.975639 #19777]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000002f9f978> on port 1234...
+I, [2018-02-07T15:18:31.124582 #19777]  INFO -- : Started on port 1234
+I, [2018-02-07T15:18:31.182584 #19777]  INFO -- : Clearing all expectations
+I, [2018-02-07T15:18:31.188558 #19777]  INFO -- : Verifying interactions for pact with provider can process the json payload from the provider
+D, [2018-02-07T15:18:31.198037 #19777] DEBUG -- : Supposed to be stopping
+I, [2018-02-07T15:19:31.585838 #19826]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x0000000165f170> on port 1234...
+I, [2018-02-07T15:19:31.707621 #19826]  INFO -- : Started on port 1234
+I, [2018-02-07T15:19:31.862806 #19826]  INFO -- : Clearing all expectations
+I, [2018-02-07T15:19:31.868145 #19826]  INFO -- : Verifying interactions for pact with provider can process the json payload from the provider
+D, [2018-02-07T15:19:31.876467 #19826] DEBUG -- : Supposed to be stopping
+I, [2018-02-07T15:20:13.616861 #19924]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x0000000211aa88> on port 1234...
+I, [2018-02-07T15:20:13.767930 #19924]  INFO -- : Started on port 1234
+I, [2018-02-07T15:20:13.828876 #19924]  INFO -- : Clearing all expectations
+I, [2018-02-07T15:20:13.845937 #19924]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-07T15:20:13.864445 #19924] DEBUG -- : Supposed to be stopping
+I, [2018-02-07T15:30:27.934213 #20161]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000002b06b00> on port 1234...
+I, [2018-02-07T15:30:28.090900 #20161]  INFO -- : Started on port 1234
+I, [2018-02-07T15:30:28.113071 #20161]  INFO -- : Clearing all expectations
+I, [2018-02-07T15:30:28.117125 #20161]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-07T15:30:28.125192 #20161] DEBUG -- : Supposed to be stopping
+I, [2018-02-07T15:34:05.266847 #20342]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000027272f0> on port 1234...
+I, [2018-02-07T15:34:05.423058 #20342]  INFO -- : Started on port 1234
+I, [2018-02-07T15:34:05.454602 #20342]  INFO -- : Clearing all expectations
+I, [2018-02-07T15:34:05.459168 #20342]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-07T15:34:05.468492 #20342] DEBUG -- : Supposed to be stopping
+I, [2018-02-07T15:34:45.607355 #20411]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001a2fb88> on port 1234...
+I, [2018-02-07T15:34:45.767859 #20411]  INFO -- : Started on port 1234
+I, [2018-02-07T15:34:45.795688 #20411]  INFO -- : Clearing all expectations
+I, [2018-02-07T15:34:45.799854 #20411]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-07T15:34:45.808378 #20411] DEBUG -- : Supposed to be stopping
+I, [2018-02-07T15:35:31.737451 #20476]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000002c3f648> on port 1234...
+I, [2018-02-07T15:35:31.869056 #20476]  INFO -- : Started on port 1234
+I, [2018-02-07T15:35:31.936015 #20476]  INFO -- : Clearing all expectations
+I, [2018-02-07T15:35:31.957046 #20476]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-07T15:35:31.980356 #20476] DEBUG -- : Supposed to be stopping
+I, [2018-02-07T15:38:12.748322 #20595]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000033be860> on port 1234...
+I, [2018-02-07T15:38:12.914059 #20595]  INFO -- : Started on port 1234
+I, [2018-02-07T15:38:12.972455 #20595]  INFO -- : Clearing all expectations
+I, [2018-02-07T15:38:12.990163 #20595]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-07T15:38:13.004657 #20595] DEBUG -- : Supposed to be stopping
+I, [2018-02-07T16:12:09.222880 #22278]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000003027260> on port 1234...
+I, [2018-02-07T16:12:09.370410 #22278]  INFO -- : Started on port 1234
+I, [2018-02-07T16:12:09.440150 #22278]  INFO -- : Clearing all expectations
+I, [2018-02-07T16:12:09.456827 #22278]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-07T16:12:09.524492 #22278] DEBUG -- : Supposed to be stopping
+I, [2018-02-07T16:16:29.942700 #22802]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000029bae90> on port 1234...
+I, [2018-02-07T16:16:30.009766 #22802]  INFO -- : Started on port 1234
+I, [2018-02-07T16:16:30.088187 #22802]  INFO -- : Clearing all expectations
+I, [2018-02-07T16:16:30.106515 #22802]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-07T16:16:30.125174 #22802] DEBUG -- : Supposed to be stopping
+I, [2018-02-07T16:17:39.109161 #22920]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x0000000229c0f0> on port 1234...
+I, [2018-02-07T16:17:39.263386 #22920]  INFO -- : Started on port 1234
+I, [2018-02-07T16:17:39.319741 #22920]  INFO -- : Clearing all expectations
+I, [2018-02-07T16:17:39.336114 #22920]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-07T16:17:39.356155 #22920] DEBUG -- : Supposed to be stopping
+I, [2018-02-07T16:18:26.080160 #23064]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x0000000285f050> on port 1234...
+I, [2018-02-07T16:18:26.218947 #23064]  INFO -- : Started on port 1234
+I, [2018-02-07T16:18:26.283960 #23064]  INFO -- : Clearing all expectations
+I, [2018-02-07T16:18:26.300860 #23064]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-07T16:18:26.316745 #23064] DEBUG -- : Supposed to be stopping
+I, [2018-02-22T11:00:17.424895 #6308]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001e2f5a8> on port 1234...
+I, [2018-02-22T11:00:17.544332 #6308]  INFO -- : Started on port 1234
+I, [2018-02-22T11:00:17.891634 #6308]  INFO -- : Clearing all expectations
+I, [2018-02-22T11:00:17.908603 #6308]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-22T11:00:17.923810 #6308] DEBUG -- : Supposed to be stopping
+I, [2018-02-22T14:29:25.078028 #9600]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x0000000182f928> on port 1234...
+I, [2018-02-22T14:29:25.194215 #9600]  INFO -- : Started on port 1234
+I, [2018-02-22T14:29:25.253574 #9600]  INFO -- : Clearing all expectations
+I, [2018-02-22T14:29:25.275677 #9600]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-22T14:29:25.287160 #9600] DEBUG -- : Supposed to be stopping
+I, [2018-02-22T14:30:47.177804 #9982]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001db10e0> on port 1234...
+I, [2018-02-22T14:30:47.340593 #9982]  INFO -- : Started on port 1234
+I, [2018-02-22T14:30:47.390561 #9982]  INFO -- : Clearing all expectations
+I, [2018-02-22T14:30:47.412914 #9982]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-22T14:30:47.429211 #9982] DEBUG -- : Supposed to be stopping
+I, [2018-02-22T14:34:41.916351 #10094]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000028a7940> on port 1234...
+I, [2018-02-22T14:34:42.067024 #10094]  INFO -- : Started on port 1234
+I, [2018-02-22T14:34:42.122404 #10094]  INFO -- : Clearing all expectations
+I, [2018-02-22T14:34:42.138907 #10094]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-22T14:34:42.151143 #10094] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T09:19:04.500873 #14503]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001777cb0> on port 1234...
+I, [2018-02-23T09:19:04.632036 #14503]  INFO -- : Started on port 1234
+I, [2018-02-23T09:19:04.693459 #14503]  INFO -- : Clearing all expectations
+I, [2018-02-23T09:19:04.715663 #14503]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T09:19:04.730545 #14503] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T09:41:10.469178 #15721]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000017a5430> on port 1234...
+I, [2018-02-23T09:41:10.532783 #15721]  INFO -- : Started on port 1234
+I, [2018-02-23T09:41:10.581459 #15721]  INFO -- : Clearing all expectations
+I, [2018-02-23T09:41:10.599055 #15721]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T09:41:10.612367 #15721] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T13:26:58.878818 #18413]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000012a97d8> on port 1234...
+I, [2018-02-23T13:26:59.001619 #18413]  INFO -- : Started on port 1234
+I, [2018-02-23T13:26:59.062582 #18413]  INFO -- : Clearing all expectations
+I, [2018-02-23T13:26:59.086593 #18413]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T13:26:59.096005 #18413] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T13:27:39.816897 #18465]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000002ccc250> on port 1234...
+I, [2018-02-23T13:27:39.940906 #18465]  INFO -- : Started on port 1234
+I, [2018-02-23T13:27:39.983733 #18465]  INFO -- : Clearing all expectations
+I, [2018-02-23T13:27:40.002613 #18465]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T13:27:40.014795 #18465] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T13:27:44.237332 #18502]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000029e0690> on port 1234...
+I, [2018-02-23T13:27:44.391438 #18502]  INFO -- : Started on port 1234
+I, [2018-02-23T13:50:42.213031 #19068]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x0000000187f018> on port 1234...
+I, [2018-02-23T13:50:42.372861 #19068]  INFO -- : Started on port 1234
+I, [2018-02-23T13:50:42.442363 #19068]  INFO -- : Clearing all expectations
+I, [2018-02-23T13:50:42.464741 #19068]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T13:50:42.487913 #19068] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T13:54:46.327103 #19523]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000015a6fa8> on port 1234...
+I, [2018-02-23T13:54:46.390612 #19523]  INFO -- : Started on port 1234
+I, [2018-02-23T13:54:46.466327 #19523]  INFO -- : Clearing all expectations
+I, [2018-02-23T13:54:46.487466 #19523]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T13:54:46.508544 #19523] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T14:12:19.597910 #19999]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000002889120> on port 1234...
+I, [2018-02-23T14:12:19.757663 #19999]  INFO -- : Started on port 1234
+I, [2018-02-23T14:12:19.804744 #19999]  INFO -- : Clearing all expectations
+I, [2018-02-23T14:12:19.820851 #19999]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T14:12:19.834122 #19999] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T14:15:52.957395 #20047]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x0000000538d650> on port 1234...
+I, [2018-02-23T14:15:53.124815 #20047]  INFO -- : Started on port 1234
+I, [2018-02-23T14:19:16.966405 #20368]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000002731750> on port 1234...
+I, [2018-02-23T14:19:17.117799 #20368]  INFO -- : Started on port 1234
+I, [2018-02-23T14:19:17.177795 #20368]  INFO -- : Clearing all expectations
+I, [2018-02-23T14:19:17.196589 #20368]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T14:19:17.213488 #20368] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T14:20:02.343384 #20498]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001f3a650> on port 1234...
+I, [2018-02-23T14:20:02.500515 #20498]  INFO -- : Started on port 1234
+I, [2018-02-23T14:22:10.565169 #20592]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000002806fb8> on port 1234...
+I, [2018-02-23T14:22:10.614950 #20592]  INFO -- : Started on port 1234
+I, [2018-02-23T14:22:10.677328 #20592]  INFO -- : Clearing all expectations
+I, [2018-02-23T14:22:10.696302 #20592]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T14:22:10.709409 #20592] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T14:23:01.678627 #20632]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000003f98230> on port 1234...
+I, [2018-02-23T14:23:01.844807 #20632]  INFO -- : Started on port 1234
+I, [2018-02-23T14:38:04.601010 #20798]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x0000000197b1b0> on port 1234...
+I, [2018-02-23T14:38:04.757224 #20798]  INFO -- : Started on port 1234
+I, [2018-02-23T14:38:04.908537 #20798]  INFO -- : Clearing all expectations
+I, [2018-02-23T14:38:04.927256 #20798]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T14:38:04.943496 #20798] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T14:38:32.149972 #20847]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000000e3e130> on port 1234...
+I, [2018-02-23T14:38:32.207443 #20847]  INFO -- : Started on port 1234
+I, [2018-02-23T14:38:32.283086 #20847]  INFO -- : Clearing all expectations
+I, [2018-02-23T14:38:32.309103 #20847]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T14:38:32.325954 #20847] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T14:43:33.844479 #20943]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000023a27b0> on port 1234...
+I, [2018-02-23T14:43:34.004088 #20943]  INFO -- : Started on port 1234
+I, [2018-02-23T14:43:34.071970 #20943]  INFO -- : Clearing all expectations
+I, [2018-02-23T14:43:34.092317 #20943]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T14:43:34.112550 #20943] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T14:48:29.379342 #21113]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000024374a0> on port 1234...
+I, [2018-02-23T14:48:29.525670 #21113]  INFO -- : Started on port 1234
+I, [2018-02-23T14:48:29.600445 #21113]  INFO -- : Clearing all expectations
+I, [2018-02-23T14:48:29.621323 #21113]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T14:48:29.638335 #21113] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T14:48:55.437063 #21185]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001b774a0> on port 1234...
+I, [2018-02-23T14:48:55.498408 #21185]  INFO -- : Started on port 1234
+I, [2018-02-23T14:48:55.564057 #21185]  INFO -- : Clearing all expectations
+I, [2018-02-23T14:48:55.584154 #21185]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T14:48:55.601333 #21185] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T14:49:58.685543 #21301]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000000d18030> on port 1234...
+I, [2018-02-23T14:49:58.743267 #21301]  INFO -- : Started on port 1234
+I, [2018-02-23T14:49:58.821401 #21301]  INFO -- : Clearing all expectations
+I, [2018-02-23T14:49:58.845101 #21301]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T14:49:58.862057 #21301] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T14:54:03.170551 #21396]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x0000000207f218> on port 1234...
+I, [2018-02-23T14:54:03.328853 #21396]  INFO -- : Started on port 1234
+I, [2018-02-23T14:54:03.392839 #21396]  INFO -- : Clearing all expectations
+I, [2018-02-23T14:54:03.411939 #21396]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T14:54:03.433683 #21396] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T14:57:04.873754 #21653]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001da2e00> on port 1234...
+I, [2018-02-23T14:57:05.034779 #21653]  INFO -- : Started on port 1234
+I, [2018-02-23T14:58:01.311281 #21697]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001197660> on port 1234...
+I, [2018-02-23T14:58:01.469811 #21697]  INFO -- : Started on port 1234
+I, [2018-02-23T14:59:17.411661 #21736]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000000de3668> on port 1234...
+I, [2018-02-23T14:59:17.574911 #21736]  INFO -- : Started on port 1234
+I, [2018-02-23T15:06:33.264855 #21808]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001252640> on port 1234...
+I, [2018-02-23T15:06:33.416403 #21808]  INFO -- : Started on port 1234
+I, [2018-02-23T15:06:42.700697 #21835]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001669b98> on port 1234...
+I, [2018-02-23T15:06:42.857057 #21835]  INFO -- : Started on port 1234
+I, [2018-02-23T15:06:56.817676 #21877]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001dc1b98> on port 1234...
+I, [2018-02-23T15:06:56.970387 #21877]  INFO -- : Started on port 1234
+I, [2018-02-23T15:07:18.025981 #21911]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000028fb338> on port 1234...
+I, [2018-02-23T15:07:18.132615 #21911]  INFO -- : Started on port 1234
+I, [2018-02-23T15:07:48.159783 #21964]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000000ee3338> on port 1234...
+I, [2018-02-23T15:07:48.210159 #21964]  INFO -- : Started on port 1234
+I, [2018-02-23T15:07:57.754869 #21994]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001633ca0> on port 1234...
+I, [2018-02-23T15:07:57.861653 #21994]  INFO -- : Started on port 1234
+I, [2018-02-23T15:08:57.905101 #22032]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001fcb628> on port 1234...
+I, [2018-02-23T15:08:58.056407 #22032]  INFO -- : Started on port 1234
+I, [2018-02-23T15:09:10.565025 #22068]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000015324c8> on port 1234...
+I, [2018-02-23T15:09:10.722878 #22068]  INFO -- : Started on port 1234
+I, [2018-02-23T15:11:00.481169 #22110]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001fb9c70> on port 1234...
+I, [2018-02-23T15:11:00.640906 #22110]  INFO -- : Started on port 1234
+I, [2018-02-23T15:12:28.788256 #22156]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000000d9f558> on port 1234...
+I, [2018-02-23T15:12:28.896201 #22156]  INFO -- : Started on port 1234
+I, [2018-02-23T15:13:06.361986 #22192]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000025992a8> on port 1234...
+I, [2018-02-23T15:13:06.513371 #22192]  INFO -- : Started on port 1234
+I, [2018-02-23T15:14:14.487821 #22253]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001543ca0> on port 1234...
+I, [2018-02-23T15:14:14.643483 #22253]  INFO -- : Started on port 1234
+I, [2018-02-23T15:15:16.637954 #22320]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x0000000273eef0> on port 1235...
+I, [2018-02-23T15:15:16.789656 #22320]  INFO -- : Started on port 1235
+I, [2018-02-23T15:15:16.842641 #22320]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:15:16.857867 #22320]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T15:15:16.868130 #22320] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T15:15:37.162147 #22524]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x0000000201e7b0> on port 1235...
+I, [2018-02-23T15:15:37.313171 #22524]  INFO -- : Started on port 1235
+I, [2018-02-23T15:15:37.366727 #22524]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:15:37.377985 #22524]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T15:15:37.389624 #22524] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T15:18:54.017308 #22639]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x0000000257c1f8> on port 1235...
+I, [2018-02-23T15:18:54.177036 #22639]  INFO -- : Started on port 1235
+I, [2018-02-23T15:18:54.236358 #22639]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:18:54.250404 #22639]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T15:18:54.261991 #22639] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T15:19:35.948850 #22681]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000000dff930> on port 1234...
+I, [2018-02-23T15:19:36.005479 #22681]  INFO -- : Started on port 1234
+I, [2018-02-23T15:19:36.069099 #22681]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:19:36.088584 #22681]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T15:19:36.107864 #22681] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T15:26:51.192281 #22812]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000023541f0> on port 1234...
+I, [2018-02-23T15:26:51.346807 #22812]  INFO -- : Started on port 1234
+I, [2018-02-23T15:26:51.406332 #22812]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:26:51.429199 #22812]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+I, [2018-02-23T15:26:51.442619 #22812]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:26:51.464255 #22812]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T15:26:51.480797 #22812] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T15:27:06.353764 #22869]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000026b15a0> on port 1234...
+I, [2018-02-23T15:27:06.509766 #22869]  INFO -- : Started on port 1234
+I, [2018-02-23T15:27:06.571208 #22869]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:27:06.589465 #22869]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+I, [2018-02-23T15:27:06.596255 #22869]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:27:06.622657 #22869]  INFO -- : Verifying interactions for User pact with provider2 can process the json payload from the provider
+D, [2018-02-23T15:27:06.634344 #22869] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T15:27:39.807850 #22956]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001c726c0> on port 1234...
+I, [2018-02-23T15:27:39.940781 #22956]  INFO -- : Started on port 1234
+I, [2018-02-23T15:27:40.003539 #22956]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:27:40.020405 #22956]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+I, [2018-02-23T15:27:40.024594 #22956]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:27:40.041333 #22956]  INFO -- : Verifying interactions for User pact with provider2 can process the json payload from the provider
+D, [2018-02-23T15:27:40.054328 #22956] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T15:28:26.852168 #23025]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000020456a8> on port 1234...
+I, [2018-02-23T15:28:27.008291 #23025]  INFO -- : Started on port 1234
+I, [2018-02-23T15:28:27.065168 #23025]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:28:27.083259 #23025]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+I, [2018-02-23T15:28:27.089411 #23025]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:28:27.108060 #23025]  INFO -- : Verifying interactions for User pact with provider2 can process the json payload from the provider
+D, [2018-02-23T15:28:27.120100 #23025] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T15:29:29.426408 #23107]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001054de8> on port 1234...
+I, [2018-02-23T15:29:29.584853 #23107]  INFO -- : Started on port 1234
+I, [2018-02-23T15:29:29.647389 #23107]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:29:29.665299 #23107]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+I, [2018-02-23T15:29:29.670988 #23107]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:29:29.693876 #23107]  INFO -- : Verifying interactions for User pact with provider2 can process the json payload from the provider
+D, [2018-02-23T15:29:29.704740 #23107] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T15:29:55.488694 #23168]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000010d5970> on port 1234...
+I, [2018-02-23T15:29:55.605060 #23168]  INFO -- : Started on port 1234
+I, [2018-02-23T15:29:55.677307 #23168]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:29:55.698221 #23168]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+I, [2018-02-23T15:29:55.705909 #23168]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:29:55.722016 #23168]  INFO -- : Verifying interactions for User pact with provider2 can process the json payload from the provider
+D, [2018-02-23T15:29:55.735715 #23168] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T15:30:11.783059 #23230]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000000c92480> on port 1234...
+I, [2018-02-23T15:30:11.940697 #23230]  INFO -- : Started on port 1234
+I, [2018-02-23T15:30:12.004264 #23230]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:30:12.024610 #23230]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+I, [2018-02-23T15:30:12.031994 #23230]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:30:12.049566 #23230]  INFO -- : Verifying interactions for User pact with provider2 can process the json payload from the provider
+D, [2018-02-23T15:30:12.060744 #23230] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T15:30:34.104037 #23294]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x0000000188bb38> on port 1234...
+I, [2018-02-23T15:30:34.162812 #23294]  INFO -- : Started on port 1234
+I, [2018-02-23T15:30:34.222978 #23294]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:30:34.243430 #23294]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+I, [2018-02-23T15:30:34.249300 #23294]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:30:34.268491 #23294]  INFO -- : Verifying interactions for User pact with provider2 can process the json payload from the provider
+D, [2018-02-23T15:30:34.279961 #23294] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T15:31:10.738953 #23362]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000010b4ef0> on port 1234...
+I, [2018-02-23T15:31:10.884281 #23362]  INFO -- : Started on port 1234
+I, [2018-02-23T15:31:10.947293 #23362]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:31:10.970237 #23362]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+I, [2018-02-23T15:31:10.985868 #23362]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:31:10.992361 #23362]  INFO -- : Verifying interactions for User pact with provider2 can process the json payload from the provider
+D, [2018-02-23T15:31:11.004493 #23362] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T15:31:26.177141 #23422]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000023542e0> on port 1234...
+I, [2018-02-23T15:31:26.331723 #23422]  INFO -- : Started on port 1234
+I, [2018-02-23T15:31:26.391419 #23422]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:31:26.410520 #23422]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T15:31:26.431031 #23422] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T15:34:52.457159 #23637]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000011317c0> on port 1234...
+I, [2018-02-23T15:34:52.608225 #23637]  INFO -- : Started on port 1234
+I, [2018-02-23T15:34:52.665377 #23637]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:34:52.684107 #23637]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T15:34:52.699782 #23637] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T15:37:50.501009 #23810]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000000c30988> on port 1234...
+I, [2018-02-23T15:37:50.552191 #23810]  INFO -- : Started on port 1234
+I, [2018-02-23T15:37:50.618236 #23810]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:37:50.622178 #23810]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T15:37:50.634795 #23810] DEBUG -- : Supposed to be stopping
+I, [2018-02-23T15:38:17.522951 #23858]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001f582e0> on port 1234...
+I, [2018-02-23T15:38:17.669298 #23858]  INFO -- : Started on port 1234
+I, [2018-02-23T15:38:17.727208 #23858]  INFO -- : Clearing all expectations
+I, [2018-02-23T15:38:17.744259 #23858]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-23T15:38:17.759203 #23858] DEBUG -- : Supposed to be stopping
+I, [2018-02-24T09:52:50.066628 #32054]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001c0b470> on port 1234...
+I, [2018-02-24T09:52:50.224545 #32054]  INFO -- : Started on port 1234
+I, [2018-02-24T09:52:50.278293 #32054]  INFO -- : Clearing all expectations
+I, [2018-02-24T09:52:50.298374 #32054]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-24T09:52:50.312957 #32054] DEBUG -- : Supposed to be stopping
+I, [2018-02-24T10:37:39.594301 #34442]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001174ed0> on port 1234...
+I, [2018-02-24T10:37:39.758347 #34442]  INFO -- : Started on port 1234
+I, [2018-02-24T10:37:39.805325 #34442]  INFO -- : Clearing all expectations
+I, [2018-02-24T10:37:39.824956 #34442]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-24T10:37:39.842688 #34442] DEBUG -- : Supposed to be stopping
+I, [2018-02-24T10:37:52.813816 #34502]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000021923a8> on port 1234...
+I, [2018-02-24T10:37:52.870909 #34502]  INFO -- : Started on port 1234
+I, [2018-02-24T10:37:52.876815 #34502]  INFO -- : Clearing all expectations
+I, [2018-02-24T10:37:52.926009 #34502]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-24T10:37:52.938890 #34502] DEBUG -- : Supposed to be stopping
+I, [2018-02-24T10:48:18.014014 #35366]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x0000000167c040> on port 1234...
+I, [2018-02-24T10:48:18.177778 #35366]  INFO -- : Started on port 1234
+I, [2018-02-24T10:48:18.184487 #35366]  INFO -- : Clearing all expectations
+I, [2018-02-24T10:48:18.234844 #35366]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-24T10:48:18.245076 #35366] DEBUG -- : Supposed to be stopping
+I, [2018-02-24T10:49:23.390952 #35418]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000016cc040> on port 1234...
+I, [2018-02-24T10:49:23.536943 #35418]  INFO -- : Started on port 1234
+I, [2018-02-24T10:49:23.543096 #35418]  INFO -- : Clearing all expectations
+I, [2018-02-24T10:49:23.591229 #35418]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-24T10:49:23.610039 #35418] DEBUG -- : Supposed to be stopping
+I, [2018-02-24T10:54:02.808553 #35886]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000017ed118> on port 1234...
+I, [2018-02-24T10:54:02.965873 #35886]  INFO -- : Started on port 1234
+I, [2018-02-24T10:54:02.973130 #35886]  INFO -- : Clearing all expectations
+I, [2018-02-24T10:54:03.024526 #35886]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-24T10:54:03.041989 #35886] DEBUG -- : Supposed to be stopping
+I, [2018-02-24T10:59:21.833772 #36420]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000002161118> on port 3000...
+I, [2018-02-24T10:59:21.884399 #36420]  INFO -- : Started on port 3000
+I, [2018-02-24T10:59:21.890826 #36420]  INFO -- : Clearing all expectations
+I, [2018-02-24T10:59:21.940734 #36420]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-24T10:59:21.960095 #36420] DEBUG -- : Supposed to be stopping
+I, [2018-02-24T11:14:49.339479 #37134]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000022219e0> on port 3000...
+I, [2018-02-24T11:14:49.493514 #37134]  INFO -- : Started on port 3000
+I, [2018-02-24T11:14:49.498676 #37134]  INFO -- : Clearing all expectations
+I, [2018-02-24T11:14:49.550501 #37134]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-24T11:14:49.569549 #37134] DEBUG -- : Supposed to be stopping
+I, [2018-02-24T11:22:16.405085 #37286]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001accc80> on port 3000...
+I, [2018-02-24T11:22:16.561336 #37286]  INFO -- : Started on port 3000
+I, [2018-02-24T11:22:16.567730 #37286]  INFO -- : Clearing all expectations
+I, [2018-02-24T11:22:16.617564 #37286]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-24T11:22:16.631764 #37286] DEBUG -- : Supposed to be stopping
+I, [2018-02-24T11:23:49.342789 #37501]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000001f9a528> on port 3000...
+I, [2018-02-24T11:23:49.495148 #37501]  INFO -- : Started on port 3000
+I, [2018-02-24T11:23:49.502062 #37501]  INFO -- : Clearing all expectations
+I, [2018-02-24T11:23:49.554555 #37501]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-24T11:23:49.571932 #37501] DEBUG -- : Supposed to be stopping
+I, [2018-02-24T11:27:39.314600 #37753]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000002c54160> on port 3000...
+I, [2018-02-24T11:27:39.467744 #37753]  INFO -- : Started on port 3000
+I, [2018-02-24T11:27:39.476744 #37753]  INFO -- : Clearing all expectations
+I, [2018-02-24T11:27:39.547291 #37753]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-24T11:27:39.567237 #37753] DEBUG -- : Supposed to be stopping
+I, [2018-02-24T14:16:42.117549 #41659]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000002396258> on port 3000...
+I, [2018-02-24T14:16:42.229954 #41659]  INFO -- : Started on port 3000
+I, [2018-02-24T14:16:42.235262 #41659]  INFO -- : Clearing all expectations
+I, [2018-02-24T14:16:42.299142 #41659]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-24T14:16:42.313758 #41659] DEBUG -- : Supposed to be stopping
+I, [2018-02-24T14:17:30.141402 #41719]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x000000024848b8> on port 3000...
+I, [2018-02-24T14:17:30.193843 #41719]  INFO -- : Started on port 3000
+I, [2018-02-24T14:17:30.215778 #41719]  INFO -- : Clearing all expectations
+I, [2018-02-24T14:17:30.264187 #41719]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-24T14:17:30.277036 #41719] DEBUG -- : Supposed to be stopping
+I, [2018-02-24T14:18:44.078990 #41780]  INFO -- : Starting app 提供者 #<Pact::MockService::App:0x0000000144dc10> on port 3000...
+I, [2018-02-24T14:18:44.227867 #41780]  INFO -- : Started on port 3000
+I, [2018-02-24T14:18:44.252203 #41780]  INFO -- : Clearing all expectations
+I, [2018-02-24T14:18:44.297348 #41780]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-24T14:18:44.310239 #41780] DEBUG -- : Supposed to be stopping
+I, [2018-02-24T14:29:59.525488 #42121]  INFO -- : Starting app My Provider #<Pact::MockService::App:0x00000002552768> on port 3000...
+I, [2018-02-24T14:29:59.679855 #42121]  INFO -- : Started on port 3000
+I, [2018-02-24T14:29:59.686614 #42121]  INFO -- : Clearing all expectations
+I, [2018-02-24T14:29:59.739397 #42121]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-24T14:29:59.755332 #42121] DEBUG -- : Supposed to be stopping
+I, [2018-02-24T14:43:23.417160 #42538]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000001944a70> on port 3000...
+I, [2018-02-24T14:43:23.571880 #42538]  INFO -- : Started on port 3000
+I, [2018-02-24T14:43:23.579590 #42538]  INFO -- : Clearing all expectations
+I, [2018-02-24T14:43:23.636484 #42538]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-24T14:43:23.654098 #42538] DEBUG -- : Supposed to be stopping
+I, [2018-02-24T14:44:21.918182 #42639]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000022fd350> on port 3000...
+I, [2018-02-24T14:44:21.975330 #42639]  INFO -- : Started on port 3000
+I, [2018-02-24T14:44:21.983630 #42639]  INFO -- : Clearing all expectations
+I, [2018-02-24T14:44:21.987919 #42639]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-24T14:44:21.997061 #42639] DEBUG -- : Supposed to be stopping
+I, [2018-02-24T14:44:50.116795 #42677]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000001f9fb18> on port 3000...
+I, [2018-02-24T14:44:50.250189 #42677]  INFO -- : Started on port 3000
+I, [2018-02-24T14:44:50.255899 #42677]  INFO -- : Clearing all expectations
+I, [2018-02-24T14:44:50.309167 #42677]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-24T14:44:50.329157 #42677] DEBUG -- : Supposed to be stopping
+I, [2018-02-24T14:48:27.034037 #42943]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000002d57738> on port 3000...
+I, [2018-02-24T14:48:27.191686 #42943]  INFO -- : Started on port 3000
+I, [2018-02-24T14:48:27.197928 #42943]  INFO -- : Clearing all expectations
+I, [2018-02-24T14:48:27.247178 #42943]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-24T14:48:27.258394 #42943] DEBUG -- : Supposed to be stopping
+I, [2018-02-24T17:31:43.022605 #5479]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000023e66b8> on port 3000...
+I, [2018-02-24T17:31:43.151029 #5479]  INFO -- : Started on port 3000
+I, [2018-02-24T17:31:43.175393 #5479]  INFO -- : Clearing all expectations
+I, [2018-02-24T17:31:43.778992 #5479]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-24T17:31:43.790311 #5479] DEBUG -- : Supposed to be stopping
+I, [2018-02-24T17:31:51.085024 #5523]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x0000000197e860> on port 3000...
+I, [2018-02-24T17:31:51.216237 #5523]  INFO -- : Started on port 3000
+I, [2018-02-24T17:31:51.222719 #5523]  INFO -- : Clearing all expectations
+I, [2018-02-24T17:31:51.274574 #5523]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-24T17:31:51.283019 #5523] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T09:28:26.004846 #6460]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000020d7260> on port 3000...
+I, [2018-02-26T09:28:26.123390 #6460]  INFO -- : Started on port 3000
+I, [2018-02-26T09:28:26.148561 #6460]  INFO -- : Clearing all expectations
+I, [2018-02-26T09:28:26.196802 #6460]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-26T09:28:26.208992 #6460] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T09:39:52.872809 #6940]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000001b8b158> on port 3000...
+I, [2018-02-26T09:39:53.014898 #6940]  INFO -- : Started on port 3000
+I, [2018-02-26T09:39:53.038226 #6940]  INFO -- : Clearing all expectations
+I, [2018-02-26T09:39:53.042365 #6940]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+I, [2018-02-26T09:39:53.046914 #6940]  INFO -- : Clearing all expectations
+I, [2018-02-26T09:39:53.051111 #6940]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+D, [2018-02-26T09:39:53.060013 #6940] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T09:41:51.112674 #7070]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000021341e0> on port 3000...
+I, [2018-02-26T09:41:51.266490 #7070]  INFO -- : Started on port 3000
+I, [2018-02-26T09:41:51.290453 #7070]  INFO -- : Clearing all expectations
+I, [2018-02-26T09:41:51.347160 #7070]  INFO -- : Verifying interactions for User pact with provider 能够从服务提供者处得到处理后的json数据
+I, [2018-02-26T09:41:51.353846 #7070]  INFO -- : Clearing all expectations
+I, [2018-02-26T09:41:51.386404 #7070]  INFO -- : Verifying interactions for User pact with provider 能够从服务提供者处得到处理后的string数据
+D, [2018-02-26T09:41:51.399847 #7070] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T09:43:38.392591 #7169]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000001091590> on port 3000...
+I, [2018-02-26T09:43:38.543185 #7169]  INFO -- : Started on port 3000
+I, [2018-02-26T09:43:38.569217 #7169]  INFO -- : Clearing all expectations
+I, [2018-02-26T09:43:38.615347 #7169]  INFO -- : Verifying interactions for User pact with provider 能够从服务提供者处得到处理后的json数据
+I, [2018-02-26T09:43:38.622157 #7169]  INFO -- : Clearing all expectations
+I, [2018-02-26T09:43:38.642979 #7169]  INFO -- : Verifying interactions for User pact with provider 能够从服务提供者处得到处理后的string数据
+D, [2018-02-26T09:43:38.656396 #7169] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T09:44:57.878673 #7322]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000001460680> on port 3000...
+I, [2018-02-26T09:44:58.030148 #7322]  INFO -- : Started on port 3000
+I, [2018-02-26T09:44:58.055415 #7322]  INFO -- : Clearing all expectations
+I, [2018-02-26T09:44:58.102188 #7322]  INFO -- : Verifying interactions for User pact with provider 能够从服务提供者处得到处理后的json数据
+I, [2018-02-26T09:44:58.109271 #7322]  INFO -- : Clearing all expectations
+I, [2018-02-26T09:44:58.145186 #7322]  INFO -- : Verifying interactions for User pact with provider 能够从服务提供者处得到处理后的string数据
+D, [2018-02-26T09:44:58.159716 #7322] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T09:46:09.308360 #7424]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000027607a8> on port 3000...
+I, [2018-02-26T09:46:09.364765 #7424]  INFO -- : Started on port 3000
+I, [2018-02-26T09:46:09.390739 #7424]  INFO -- : Clearing all expectations
+I, [2018-02-26T09:46:09.440831 #7424]  INFO -- : Verifying interactions for User pact with provider 能够从服务提供者处得到处理后的json数据
+I, [2018-02-26T09:46:09.446764 #7424]  INFO -- : Clearing all expectations
+I, [2018-02-26T09:46:09.468818 #7424]  INFO -- : Verifying interactions for User pact with provider 能够从服务提供者处得到处理后的string数据
+D, [2018-02-26T09:46:09.482750 #7424] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T09:54:34.653300 #7797]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000001dad558> on port 3000...
+I, [2018-02-26T09:54:34.811011 #7797]  INFO -- : Started on port 3000
+I, [2018-02-26T09:54:34.836847 #7797]  INFO -- : Clearing all expectations
+I, [2018-02-26T09:54:34.883090 #7797]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的json数据
+I, [2018-02-26T09:54:34.888755 #7797]  INFO -- : Clearing all expectations
+I, [2018-02-26T09:54:34.906184 #7797]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的string数据
+D, [2018-02-26T09:54:34.925193 #7797] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T09:58:56.187792 #8050]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000014af1b8> on port 3000...
+I, [2018-02-26T09:58:56.342920 #8050]  INFO -- : Started on port 3000
+I, [2018-02-26T09:58:56.367870 #8050]  INFO -- : Clearing all expectations
+I, [2018-02-26T09:58:56.415451 #8050]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的json数据
+I, [2018-02-26T09:58:56.422165 #8050]  INFO -- : Clearing all expectations
+I, [2018-02-26T09:58:56.449040 #8050]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的string数据
+D, [2018-02-26T09:58:56.463311 #8050] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T10:02:26.720225 #8248]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000029cef08> on port 3000...
+I, [2018-02-26T10:02:26.870749 #8248]  INFO -- : Started on port 3000
+I, [2018-02-26T10:02:26.894983 #8248]  INFO -- : Clearing all expectations
+I, [2018-02-26T10:02:26.942493 #8248]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的json数据
+I, [2018-02-26T10:02:26.949180 #8248]  INFO -- : Clearing all expectations
+I, [2018-02-26T10:02:26.969291 #8248]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的string数据
+D, [2018-02-26T10:02:26.985129 #8248] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T10:20:37.064940 #9208]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000001fbf698> on port 3000...
+I, [2018-02-26T10:20:37.214392 #9208]  INFO -- : Started on port 3000
+I, [2018-02-26T10:20:37.240241 #9208]  INFO -- : Clearing all expectations
+I, [2018-02-26T10:20:37.285072 #9208]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的json数据
+I, [2018-02-26T10:20:37.293139 #9208]  INFO -- : Clearing all expectations
+I, [2018-02-26T10:20:37.315331 #9208]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的string数据
+D, [2018-02-26T10:20:37.330134 #9208] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T10:27:29.639441 #9515]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000001dc5fb8> on port 3000...
+I, [2018-02-26T10:27:29.791413 #9515]  INFO -- : Started on port 3000
+I, [2018-02-26T10:27:29.818362 #9515]  INFO -- : Clearing all expectations
+I, [2018-02-26T10:27:29.823143 #9515]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+I, [2018-02-26T10:27:29.827719 #9515]  INFO -- : Clearing all expectations
+I, [2018-02-26T10:27:29.878391 #9515]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的string数据
+D, [2018-02-26T10:27:29.894667 #9515] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T10:28:04.145768 #9574]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000002a3fed8> on port 3000...
+I, [2018-02-26T10:28:04.253630 #9574]  INFO -- : Started on port 3000
+I, [2018-02-26T10:28:04.280974 #9574]  INFO -- : Clearing all expectations
+I, [2018-02-26T10:28:04.321020 #9574]  INFO -- : Verifying interactions for User pact with provider can process the json payload from the provider
+I, [2018-02-26T10:28:04.326869 #9574]  INFO -- : Clearing all expectations
+I, [2018-02-26T10:28:04.344232 #9574]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的string数据
+D, [2018-02-26T10:28:04.366074 #9574] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T10:29:46.836122 #9662]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000002b71d10> on port 3000...
+I, [2018-02-26T10:29:46.995571 #9662]  INFO -- : Started on port 3000
+I, [2018-02-26T10:29:47.020792 #9662]  INFO -- : Clearing all expectations
+I, [2018-02-26T10:29:47.069810 #9662]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的json数据
+I, [2018-02-26T10:29:47.075894 #9662]  INFO -- : Clearing all expectations
+I, [2018-02-26T10:29:47.095997 #9662]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的string数据
+D, [2018-02-26T10:29:47.112526 #9662] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T10:54:43.886204 #10794]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000023dc190> on port 3000...
+I, [2018-02-26T10:54:44.034484 #10794]  INFO -- : Started on port 3000
+I, [2018-02-26T10:54:44.059228 #10794]  INFO -- : Clearing all expectations
+I, [2018-02-26T10:54:44.113133 #10794]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的json数据
+I, [2018-02-26T10:54:44.118527 #10794]  INFO -- : Clearing all expectations
+I, [2018-02-26T10:54:44.138260 #10794]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的string数据
+D, [2018-02-26T10:54:44.152781 #10794] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T11:03:33.666980 #11002]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000002b7d390> on port 3000...
+I, [2018-02-26T11:04:07.116582 #11060]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x0000000254d8d0> on port 3000...
+I, [2018-02-26T11:04:07.271423 #11060]  INFO -- : Started on port 3000
+I, [2018-02-26T11:04:07.298065 #11060]  INFO -- : Clearing all expectations
+I, [2018-02-26T11:04:07.342521 #11060]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的json数据
+I, [2018-02-26T11:04:07.347684 #11060]  INFO -- : Clearing all expectations
+I, [2018-02-26T11:04:07.368664 #11060]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的string数据
+D, [2018-02-26T11:04:07.385952 #11060] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T11:06:54.783624 #11245]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x0000000172dc28> on port 3000...
+I, [2018-02-26T11:06:54.935203 #11245]  INFO -- : Started on port 3000
+I, [2018-02-26T11:06:54.962130 #11245]  INFO -- : Clearing all expectations
+I, [2018-02-26T11:06:55.006538 #11245]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的json数据
+I, [2018-02-26T11:06:55.011924 #11245]  INFO -- : Clearing all expectations
+I, [2018-02-26T11:06:55.033271 #11245]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的string数据
+D, [2018-02-26T11:06:55.050787 #11245] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T11:07:43.991019 #11332]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000000c48880> on port 3000...
+I, [2018-02-26T11:07:44.146421 #11332]  INFO -- : Started on port 3000
+I, [2018-02-26T11:07:44.171518 #11332]  INFO -- : Clearing all expectations
+I, [2018-02-26T11:07:44.217427 #11332]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的json数据
+I, [2018-02-26T11:07:44.223047 #11332]  INFO -- : Clearing all expectations
+I, [2018-02-26T11:07:44.241655 #11332]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的string数据
+D, [2018-02-26T11:07:44.259673 #11332] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T12:39:15.554222 #14378]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x0000000287d550> on port 3000...
+I, [2018-02-26T12:39:15.700947 #14378]  INFO -- : Started on port 3000
+I, [2018-02-26T12:39:15.726620 #14378]  INFO -- : Clearing all expectations
+I, [2018-02-26T12:39:15.775565 #14378]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的json数据
+I, [2018-02-26T12:39:15.782396 #14378]  INFO -- : Clearing all expectations
+I, [2018-02-26T12:39:15.804507 #14378]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的string数据
+D, [2018-02-26T12:39:15.819251 #14378] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T12:41:35.479418 #14631]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000021aa368> on port 3000...
+I, [2018-02-26T12:41:35.637647 #14631]  INFO -- : Started on port 3000
+I, [2018-02-26T12:41:35.665698 #14631]  INFO -- : Clearing all expectations
+I, [2018-02-26T12:41:35.713787 #14631]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的json数据
+I, [2018-02-26T12:41:35.721584 #14631]  INFO -- : Clearing all expectations
+I, [2018-02-26T12:41:35.750098 #14631]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的string数据
+D, [2018-02-26T12:41:35.761792 #14631] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T12:43:05.337693 #14786]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000001eba770> on port 3000...
+I, [2018-02-26T12:43:05.490653 #14786]  INFO -- : Started on port 3000
+I, [2018-02-26T12:43:05.516912 #14786]  INFO -- : Clearing all expectations
+I, [2018-02-26T12:43:05.562828 #14786]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的json数据
+I, [2018-02-26T12:43:05.567988 #14786]  INFO -- : Clearing all expectations
+I, [2018-02-26T12:43:05.584950 #14786]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的string数据
+D, [2018-02-26T12:43:05.604842 #14786] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T13:00:56.752758 #15819]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000028246f8> on port 3000...
+I, [2018-02-26T13:00:56.903136 #15819]  INFO -- : Started on port 3000
+I, [2018-02-26T13:00:56.928512 #15819]  INFO -- : Clearing all expectations
+I, [2018-02-26T13:00:56.974085 #15819]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的json数据
+I, [2018-02-26T13:00:56.980090 #15819]  INFO -- : Clearing all expectations
+I, [2018-02-26T13:00:56.997613 #15819]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的string数据
+D, [2018-02-26T13:00:57.013308 #15819] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T13:17:26.414838 #16773]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000000bf3ab0> on port 3000...
+I, [2018-02-26T13:17:26.571677 #16773]  INFO -- : Started on port 3000
+I, [2018-02-26T13:17:26.593677 #16773]  INFO -- : Clearing all expectations
+I, [2018-02-26T13:17:26.642861 #16773]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的json数据
+I, [2018-02-26T13:17:26.648817 #16773]  INFO -- : Clearing all expectations
+I, [2018-02-26T13:17:26.669014 #16773]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的string数据
+D, [2018-02-26T13:17:26.687818 #16773] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T13:18:38.193240 #16939]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000001926340> on port 3000...
+I, [2018-02-26T13:18:38.343612 #16939]  INFO -- : Started on port 3000
+I, [2018-02-26T13:18:38.369963 #16939]  INFO -- : Clearing all expectations
+I, [2018-02-26T13:18:38.418222 #16939]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的json数据
+I, [2018-02-26T13:18:38.424378 #16939]  INFO -- : Clearing all expectations
+I, [2018-02-26T13:18:38.446582 #16939]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的string数据
+D, [2018-02-26T13:18:38.458926 #16939] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T13:36:24.031101 #18502]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000000da3608> on port 3000...
+I, [2018-02-26T13:36:24.183615 #18502]  INFO -- : Started on port 3000
+I, [2018-02-26T13:36:24.206544 #18502]  INFO -- : Clearing all expectations
+I, [2018-02-26T13:36:24.250598 #18502]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的json数据
+I, [2018-02-26T13:36:24.256499 #18502]  INFO -- : Clearing all expectations
+I, [2018-02-26T13:36:24.272378 #18502]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的string数据
+D, [2018-02-26T13:36:24.292482 #18502] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T13:38:19.800892 #18727]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000001419190> on port 3000...
+I, [2018-02-26T13:38:19.849360 #18727]  INFO -- : Started on port 3000
+I, [2018-02-26T13:38:19.873875 #18727]  INFO -- : Clearing all expectations
+I, [2018-02-26T13:38:19.926034 #18727]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的json数据
+I, [2018-02-26T13:38:19.933451 #18727]  INFO -- : Clearing all expectations
+I, [2018-02-26T13:38:19.953921 #18727]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的string数据
+D, [2018-02-26T13:38:19.969694 #18727] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T13:59:23.965713 #19928]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000027b1518> on port 3000...
+I, [2018-02-26T13:59:24.117555 #19928]  INFO -- : Started on port 3000
+I, [2018-02-26T13:59:24.140912 #19928]  INFO -- : Clearing all expectations
+I, [2018-02-26T13:59:24.190517 #19928]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的string数据
+I, [2018-02-26T13:59:24.199941 #19928]  INFO -- : Clearing all expectations
+I, [2018-02-26T13:59:24.223656 #19928]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T13:59:24.237709 #19928] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T13:59:53.801179 #20020]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000024da1a0> on port 3000...
+I, [2018-02-26T13:59:53.908348 #20020]  INFO -- : Started on port 3000
+I, [2018-02-26T13:59:53.932526 #20020]  INFO -- : Clearing all expectations
+I, [2018-02-26T13:59:53.980803 #20020]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的string数据
+I, [2018-02-26T13:59:53.986312 #20020]  INFO -- : Clearing all expectations
+I, [2018-02-26T13:59:54.008706 #20020]  INFO -- : Verifying interactions for User pact with provider 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T13:59:54.019791 #20020] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T14:00:41.731352 #20105]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000010b04e0> on port 3000...
+I, [2018-02-26T14:00:41.884150 #20105]  INFO -- : Started on port 3000
+I, [2018-02-26T14:00:41.908465 #20105]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:00:41.953388 #20105]  INFO -- : Verifying interactions for User pact with provider for str_data 期望能够从服务提供者处得到处理后的string数据
+I, [2018-02-26T14:00:41.958009 #20105]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:00:41.976879 #20105]  INFO -- : Verifying interactions for User pact with provider for json_data 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T14:00:41.990377 #20105] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T14:02:51.535058 #20250]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000001317c10> on port 3000...
+I, [2018-02-26T14:02:51.590787 #20250]  INFO -- : Started on port 3000
+I, [2018-02-26T14:02:51.616698 #20250]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:02:51.665172 #20250]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从服务提供者处得到处理后的string数据
+I, [2018-02-26T14:02:51.672820 #20250]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:02:51.693848 #20250]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T14:02:51.704017 #20250] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T14:03:00.983971 #20289]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x0000000222b6e8> on port 3000...
+I, [2018-02-26T14:03:01.134236 #20289]  INFO -- : Started on port 3000
+I, [2018-02-26T14:03:01.160880 #20289]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:03:01.210491 #20289]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从服务提供者处得到处理后的string数据
+I, [2018-02-26T14:03:01.216718 #20289]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:03:01.238367 #20289]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T14:03:01.248936 #20289] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T14:03:36.562632 #20356]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x0000000177e088> on port 3000...
+I, [2018-02-26T14:03:36.715833 #20356]  INFO -- : Started on port 3000
+I, [2018-02-26T14:03:36.740724 #20356]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:03:36.786201 #20356]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从服务提供者处得到处理后的string数据
+I, [2018-02-26T14:03:36.791324 #20356]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:03:36.813334 #20356]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T14:03:36.827461 #20356] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T14:06:23.601501 #20497]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000001aabd78> on port 3000...
+I, [2018-02-26T14:06:23.757676 #20497]  INFO -- : Started on port 3000
+I, [2018-02-26T14:06:23.781290 #20497]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:06:23.830012 #20497]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从服务提供者处得到处理后的string数据
+I, [2018-02-26T14:06:23.837822 #20497]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:06:23.861006 #20497]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T14:06:23.872513 #20497] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T14:08:38.601042 #20681]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000000cf3aa0> on port 3000...
+I, [2018-02-26T14:08:38.732991 #20681]  INFO -- : Started on port 3000
+I, [2018-02-26T14:08:38.757675 #20681]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:08:38.804268 #20681]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从服务提供者处得到处理后的string数据
+I, [2018-02-26T14:08:38.811759 #20681]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:08:38.837786 #20681]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T14:08:38.849266 #20681] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T14:16:42.748607 #21138]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000000e3ec48> on port 3000...
+I, [2018-02-26T14:16:42.900874 #21138]  INFO -- : Started on port 3000
+I, [2018-02-26T14:16:42.923383 #21138]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:16:42.971815 #21138]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从服务提供者处得到处理后的string数据
+I, [2018-02-26T14:16:42.979200 #21138]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:16:43.010222 #21138]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T14:16:43.024653 #21138] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T14:17:27.141237 #21220]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x0000000266a0b0> on port 3000...
+I, [2018-02-26T14:17:27.292312 #21220]  INFO -- : Started on port 3000
+I, [2018-02-26T14:17:27.318619 #21220]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:17:27.364164 #21220]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从服务提供者处得到处理后的string数据
+I, [2018-02-26T14:17:27.368883 #21220]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:17:27.391038 #21220]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T14:17:27.405569 #21220] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T14:19:09.794124 #21316]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000001ababe8> on port 3000...
+I, [2018-02-26T14:19:09.949697 #21316]  INFO -- : Started on port 3000
+I, [2018-02-26T14:19:09.975725 #21316]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:19:10.021948 #21316]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从服务提供者处得到处理后的string数据
+I, [2018-02-26T14:19:10.027419 #21316]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:19:10.052672 #21316]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T14:19:10.067546 #21316] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T14:20:05.919503 #21389]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x0000000111dba8> on port 3000...
+I, [2018-02-26T14:20:05.967131 #21389]  INFO -- : Started on port 3000
+I, [2018-02-26T14:20:05.992052 #21389]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:20:06.044012 #21389]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从服务提供者处得到处理后的string数据
+I, [2018-02-26T14:20:06.049736 #21389]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:20:06.073880 #21389]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T14:20:06.088013 #21389] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T14:29:24.060485 #21838]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x0000000249cee0> on port 3000...
+I, [2018-02-26T14:29:24.210847 #21838]  INFO -- : Started on port 3000
+I, [2018-02-26T14:29:24.237635 #21838]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:29:24.285648 #21838]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从服务提供者处得到处理后的string数据
+I, [2018-02-26T14:29:24.292620 #21838]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:29:24.313716 #21838]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T14:29:24.328116 #21838] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T14:31:01.275608 #21932]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000000e75ba8> on port 3000...
+I, [2018-02-26T14:31:01.403556 #21932]  INFO -- : Started on port 3000
+I, [2018-02-26T14:31:01.427918 #21932]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:31:01.475398 #21932]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从服务提供者处得到处理后的string数据
+I, [2018-02-26T14:31:01.482463 #21932]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:31:01.501941 #21932]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T14:31:01.516511 #21932] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T14:36:54.007050 #22312]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000026c49e8> on port 3000...
+I, [2018-02-26T14:36:54.054210 #22312]  INFO -- : Started on port 3000
+I, [2018-02-26T14:36:54.079052 #22312]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:36:54.132440 #22312]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-26T14:36:54.138082 #22312]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:36:54.162122 #22312]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T14:36:54.174466 #22312] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T14:42:10.976522 #22693]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000010a4c08> on port 3000...
+I, [2018-02-26T14:42:11.135973 #22693]  INFO -- : Started on port 3000
+I, [2018-02-26T14:42:11.161202 #22693]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:42:11.205550 #22693]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-26T14:42:11.211688 #22693]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:42:11.228375 #22693]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T14:42:11.248056 #22693] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T14:45:15.547690 #22919]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000001f9ead8> on port 3000...
+I, [2018-02-26T14:45:15.704545 #22919]  INFO -- : Started on port 3000
+I, [2018-02-26T14:45:15.729388 #22919]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:45:15.773477 #22919]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-26T14:45:15.778664 #22919]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:45:15.797687 #22919]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T14:45:15.814972 #22919] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T14:47:33.488407 #23092]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x0000000278ec70> on port 3000...
+I, [2018-02-26T14:47:33.650484 #23092]  INFO -- : Started on port 3000
+I, [2018-02-26T14:47:33.676207 #23092]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:47:33.714557 #23092]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-26T14:47:33.720122 #23092]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:47:33.735352 #23092]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T14:47:33.746892 #23092] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T14:50:12.072145 #23215]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000002277278> on port 3000...
+I, [2018-02-26T14:50:12.214246 #23215]  INFO -- : Started on port 3000
+I, [2018-02-26T14:50:12.239500 #23215]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:50:12.284464 #23215]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-26T14:50:12.289318 #23215]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:50:12.307407 #23215]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T14:50:12.326554 #23215] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T14:51:07.009977 #23345]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000002a6cc08> on port 3000...
+I, [2018-02-26T14:51:07.168027 #23345]  INFO -- : Started on port 3000
+I, [2018-02-26T14:51:07.193241 #23345]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:51:07.237575 #23345]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-26T14:51:07.243502 #23345]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:51:07.262429 #23345]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T14:51:07.277869 #23345] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T14:52:22.380254 #23463]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000002030eb0> on port 3000...
+I, [2018-02-26T14:52:22.532136 #23463]  INFO -- : Started on port 3000
+I, [2018-02-26T14:52:22.559282 #23463]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:52:22.603479 #23463]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-26T14:52:22.609112 #23463]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:52:22.632286 #23463]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T14:52:22.645233 #23463] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T14:54:06.111513 #23662]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000001fc57a0> on port 3000...
+I, [2018-02-26T14:54:06.268091 #23662]  INFO -- : Started on port 3000
+I, [2018-02-26T14:54:06.292094 #23662]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:54:06.339404 #23662]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-26T14:54:06.344443 #23662]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:54:06.361078 #23662]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T14:54:06.380852 #23662] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T14:56:43.525778 #23853]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000002add408> on port 3000...
+I, [2018-02-26T14:56:43.681789 #23853]  INFO -- : Started on port 3000
+I, [2018-02-26T14:56:43.705647 #23853]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:56:43.746608 #23853]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-26T14:56:43.751665 #23853]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:56:43.767066 #23853]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T14:56:43.784113 #23853] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T14:57:35.391249 #23921]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000012dcdb8> on port 3000...
+I, [2018-02-26T14:57:35.545239 #23921]  INFO -- : Started on port 3000
+I, [2018-02-26T14:57:35.571418 #23921]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:57:35.615284 #23921]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-26T14:57:35.620461 #23921]  INFO -- : Clearing all expectations
+I, [2018-02-26T14:57:35.638176 #23921]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T14:57:35.656313 #23921] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T15:06:17.397893 #24651]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000020cd288> on port 3000...
+I, [2018-02-26T15:06:17.515725 #24651]  INFO -- : Started on port 3000
+I, [2018-02-26T15:06:17.543160 #24651]  INFO -- : Clearing all expectations
+I, [2018-02-26T15:06:17.590616 #24651]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-26T15:06:17.597369 #24651]  INFO -- : Clearing all expectations
+I, [2018-02-26T15:06:17.620934 #24651]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T15:06:17.632939 #24651] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T15:21:48.206318 #25360]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000001623080> on port 3000...
+I, [2018-02-26T15:22:05.081251 #25383]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000011ab778> on port 3000...
+I, [2018-02-26T15:22:05.132794 #25383]  INFO -- : Started on port 3000
+I, [2018-02-26T15:22:05.162182 #25383]  INFO -- : Clearing all expectations
+I, [2018-02-26T15:22:05.208823 #25383]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-26T15:22:05.214708 #25383]  INFO -- : Clearing all expectations
+I, [2018-02-26T15:22:05.240822 #25383]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T15:22:05.253133 #25383] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T15:29:32.564151 #26039]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x0000000156fad0> on port 3000...
+I, [2018-02-26T15:29:32.706034 #26039]  INFO -- : Started on port 3000
+I, [2018-02-26T15:29:32.729313 #26039]  INFO -- : Clearing all expectations
+I, [2018-02-26T15:29:32.776073 #26039]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-26T15:29:32.783558 #26039]  INFO -- : Clearing all expectations
+I, [2018-02-26T15:29:32.806109 #26039]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T15:29:32.818953 #26039] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T15:30:21.708855 #26130]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000000ef2d60> on port 3000...
+I, [2018-02-26T15:30:21.865031 #26130]  INFO -- : Started on port 3000
+I, [2018-02-26T15:30:21.888507 #26130]  INFO -- : Clearing all expectations
+I, [2018-02-26T15:30:21.932606 #26130]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-26T15:30:21.937648 #26130]  INFO -- : Clearing all expectations
+I, [2018-02-26T15:30:21.958630 #26130]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T15:30:21.975362 #26130] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T15:31:05.103045 #26191]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000001486308> on port 3000...
+I, [2018-02-26T15:31:05.253507 #26191]  INFO -- : Started on port 3000
+I, [2018-02-26T15:31:05.274968 #26191]  INFO -- : Clearing all expectations
+I, [2018-02-26T15:31:05.315028 #26191]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-26T15:31:05.319526 #26191]  INFO -- : Clearing all expectations
+I, [2018-02-26T15:31:05.334629 #26191]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T15:31:05.350519 #26191] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T15:31:35.780977 #26265]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000025431f0> on port 3000...
+I, [2018-02-26T15:31:35.829473 #26265]  INFO -- : Started on port 3000
+I, [2018-02-26T15:31:35.852040 #26265]  INFO -- : Clearing all expectations
+I, [2018-02-26T15:31:35.897603 #26265]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-26T15:31:35.903145 #26265]  INFO -- : Clearing all expectations
+I, [2018-02-26T15:31:35.921654 #26265]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T15:31:35.941232 #26265] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T15:34:10.112988 #26448]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000010a0450> on port 3000...
+I, [2018-02-26T15:34:10.170644 #26448]  INFO -- : Started on port 3000
+I, [2018-02-26T15:34:10.196924 #26448]  INFO -- : Clearing all expectations
+I, [2018-02-26T15:34:10.242402 #26448]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-26T15:34:10.247813 #26448]  INFO -- : Clearing all expectations
+I, [2018-02-26T15:34:10.265401 #26448]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T15:34:10.282000 #26448] DEBUG -- : Supposed to be stopping
+I, [2018-02-26T15:45:01.700671 #27296]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000026adcc0> on port 3000...
+I, [2018-02-26T15:45:01.843898 #27296]  INFO -- : Started on port 3000
+I, [2018-02-26T15:45:01.866151 #27296]  INFO -- : Clearing all expectations
+I, [2018-02-26T15:45:01.918312 #27296]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-26T15:45:01.923675 #27296]  INFO -- : Clearing all expectations
+I, [2018-02-26T15:45:01.941675 #27296]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-26T15:45:01.959252 #27296] DEBUG -- : Supposed to be stopping
+I, [2018-02-27T09:12:05.627599 #33815]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000001d8c3f8> on port 3000...
+I, [2018-02-27T09:12:05.751781 #33815]  INFO -- : Started on port 3000
+I, [2018-02-27T09:12:05.775179 #33815]  INFO -- : Clearing all expectations
+I, [2018-02-27T09:12:05.821857 #33815]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-27T09:12:05.827248 #33815]  INFO -- : Clearing all expectations
+I, [2018-02-27T09:12:05.843528 #33815]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-27T09:12:05.858390 #33815] DEBUG -- : Supposed to be stopping
+I, [2018-02-27T15:27:08.378926 #46980]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x0000000309c998> on port 3000...
+I, [2018-02-27T15:27:08.541576 #46980]  INFO -- : Started on port 3000
+I, [2018-02-27T15:27:08.591611 #46980]  INFO -- : Clearing all expectations
+I, [2018-02-27T15:27:08.771849 #46980]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-27T15:27:08.776420 #46980]  INFO -- : Clearing all expectations
+I, [2018-02-27T15:27:08.796469 #46980]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-27T15:27:08.807429 #46980] DEBUG -- : Supposed to be stopping
+I, [2018-02-27T15:32:34.704445 #47462]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000044464d0> on port 3000...
+I, [2018-02-27T15:32:34.828136 #47462]  INFO -- : Started on port 3000
+I, [2018-02-27T15:32:34.853863 #47462]  INFO -- : Clearing all expectations
+I, [2018-02-27T15:32:34.922654 #47462]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-27T15:32:34.928975 #47462]  INFO -- : Clearing all expectations
+I, [2018-02-27T15:32:34.950086 #47462]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-27T15:32:34.963473 #47462] DEBUG -- : Supposed to be stopping
+I, [2018-02-27T15:38:41.412506 #47573]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000003880858> on port 3000...
+I, [2018-02-27T15:38:41.566488 #47573]  INFO -- : Started on port 3000
+I, [2018-02-27T15:38:41.592917 #47573]  INFO -- : Clearing all expectations
+I, [2018-02-27T15:38:41.649925 #47573]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-27T15:38:41.655264 #47573]  INFO -- : Clearing all expectations
+I, [2018-02-27T15:38:41.674954 #47573]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-27T15:38:41.689256 #47573] DEBUG -- : Supposed to be stopping
+I, [2018-02-27T17:21:25.767042 #54909]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x0000000480dfc8> on port 3000...
+I, [2018-02-27T17:21:25.910196 #54909]  INFO -- : Started on port 3000
+I, [2018-02-27T17:21:25.936950 #54909]  INFO -- : Clearing all expectations
+I, [2018-02-27T17:21:26.100800 #54909]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-27T17:21:26.111067 #54909]  INFO -- : Clearing all expectations
+I, [2018-02-27T17:21:26.131765 #54909]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-27T17:21:26.143123 #54909] DEBUG -- : Supposed to be stopping
+I, [2018-02-28T10:00:00.805109 #58390]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x0000000176b190> on port 3000...
+I, [2018-02-28T10:00:00.925885 #58390]  INFO -- : Started on port 3000
+I, [2018-02-28T10:00:00.948397 #58390]  INFO -- : Clearing all expectations
+I, [2018-02-28T10:00:00.998156 #58390]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-28T10:00:01.004019 #58390]  INFO -- : Clearing all expectations
+I, [2018-02-28T10:00:01.025375 #58390]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-28T10:00:01.042199 #58390] DEBUG -- : Supposed to be stopping
+I, [2018-02-28T10:01:39.204838 #58524]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000033831c0> on port 3000...
+I, [2018-02-28T10:01:39.341808 #58524]  INFO -- : Started on port 3000
+I, [2018-02-28T10:01:39.365511 #58524]  INFO -- : Clearing all expectations
+I, [2018-02-28T10:01:39.416759 #58524]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-28T10:01:39.423376 #58524]  INFO -- : Clearing all expectations
+I, [2018-02-28T10:01:39.446168 #58524]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-28T10:01:39.459033 #58524] DEBUG -- : Supposed to be stopping
+I, [2018-02-28T10:35:52.212711 #59646]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000002298478> on port 3000...
+I, [2018-02-28T10:35:52.363445 #59646]  INFO -- : Started on port 3000
+I, [2018-02-28T10:35:52.387522 #59646]  INFO -- : Clearing all expectations
+I, [2018-02-28T10:35:52.503718 #59646]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-28T10:35:52.510443 #59646]  INFO -- : Clearing all expectations
+I, [2018-02-28T10:35:52.539570 #59646]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-28T10:35:52.554379 #59646] DEBUG -- : Supposed to be stopping
+I, [2018-02-28T10:36:56.342826 #59704]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000003a98b18> on port 3000...
+I, [2018-02-28T10:36:56.398189 #59704]  INFO -- : Started on port 3000
+I, [2018-02-28T10:36:56.425707 #59704]  INFO -- : Clearing all expectations
+I, [2018-02-28T10:36:56.476110 #59704]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-28T10:36:56.483079 #59704]  INFO -- : Clearing all expectations
+I, [2018-02-28T10:36:56.509954 #59704]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-28T10:36:56.524010 #59704] DEBUG -- : Supposed to be stopping
+I, [2018-02-28T13:37:21.893026 #63028]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x00000002e62998> on port 3000...
+I, [2018-02-28T13:37:22.003240 #63028]  INFO -- : Started on port 3000
+I, [2018-02-28T13:37:22.029826 #63028]  INFO -- : Clearing all expectations
+I, [2018-02-28T13:37:22.088773 #63028]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-28T13:37:22.095433 #63028]  INFO -- : Clearing all expectations
+I, [2018-02-28T13:37:22.117178 #63028]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-28T13:37:22.130367 #63028] DEBUG -- : Supposed to be stopping
+I, [2018-02-28T13:57:56.952781 #65304]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000039188d8> on port 3000...
+I, [2018-02-28T13:57:57.106865 #65304]  INFO -- : Started on port 3000
+I, [2018-02-28T13:57:57.134867 #65304]  INFO -- : Clearing all expectations
+I, [2018-02-28T13:57:57.184884 #65304]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-28T13:57:57.190502 #65304]  INFO -- : Clearing all expectations
+I, [2018-02-28T13:57:57.206846 #65304]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-28T13:57:57.222673 #65304] DEBUG -- : Supposed to be stopping
+I, [2018-02-28T14:31:26.148936 #66477]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000012c2a80> on port 3000...
+I, [2018-02-28T14:31:26.274953 #66477]  INFO -- : Started on port 3000
+I, [2018-02-28T14:31:26.299775 #66477]  INFO -- : Clearing all expectations
+I, [2018-02-28T14:31:26.349402 #66477]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-28T14:31:26.355196 #66477]  INFO -- : Clearing all expectations
+I, [2018-02-28T14:31:26.371116 #66477]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-28T14:31:26.384338 #66477] DEBUG -- : Supposed to be stopping
+I, [2018-02-28T15:17:40.706341 #67019]  INFO -- : Starting app new padrino2 #<Pact::MockService::App:0x000000037e5d08> on port 3000...
+I, [2018-02-28T15:17:40.836283 #67019]  INFO -- : Started on port 3000
+I, [2018-02-28T15:17:40.862716 #67019]  INFO -- : Clearing all expectations
+I, [2018-02-28T15:17:40.915309 #67019]  INFO -- : Verifying interactions for User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据
+I, [2018-02-28T15:17:40.920487 #67019]  INFO -- : Clearing all expectations
+I, [2018-02-28T15:17:40.942672 #67019]  INFO -- : Verifying interactions for User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据
+D, [2018-02-28T15:17:40.959648 #67019] DEBUG -- : Supposed to be stopping

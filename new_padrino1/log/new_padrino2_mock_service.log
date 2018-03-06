@@ -1,0 +1,90 @@
+I, [2018-02-28T15:17:40.865720 #67019]  INFO -- : Cleared interactions for example "User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据"
+I, [2018-02-28T15:17:40.870174 #67019]  INFO -- : Registered expected interaction GET /provider.string
+D, [2018-02-28T15:17:40.870463 #67019] DEBUG -- : {
+  "description": "new_padrino2接受一个获取string数据的http请求",
+  "providerState": "new_padrino2将返回string数据",
+  "request": {
+    "method": "get",
+    "path": "/provider.string"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "text/html;charset=utf-8"
+    },
+    "body": "新年快乐"
+  }
+}
+I, [2018-02-28T15:17:40.912373 #67019]  INFO -- : Received request GET /provider.string
+D, [2018-02-28T15:17:40.912881 #67019] DEBUG -- : {
+  "path": "/provider.string",
+  "query": "",
+  "method": "get",
+  "headers": {
+    "Accept-Encoding": "gzip;q=1.0,deflate;q=0.6,identity;q=0.3",
+    "Accept": "*/*",
+    "User-Agent": "Ruby",
+    "Connection": "close",
+    "Host": "localhost:3000",
+    "Version": "HTTP/1.1"
+  }
+}
+I, [2018-02-28T15:17:40.913179 #67019]  INFO -- : Found matching response for GET /provider.string
+D, [2018-02-28T15:17:40.913389 #67019] DEBUG -- : {
+  "status": 200,
+  "headers": {
+    "Content-Type": "text/html;charset=utf-8"
+  },
+  "body": "新年快乐"
+}
+I, [2018-02-28T15:17:40.918087 #67019]  INFO -- : Verifying - interactions matched for example "User 测试从new_padrino2得到str_data数据 期望能够从new_padrino2得到处理后的string数据"
+I, [2018-02-28T15:17:40.926174 #67019]  INFO -- : Cleared interactions for example "User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据"
+I, [2018-02-28T15:17:40.930917 #67019]  INFO -- : Registered expected interaction GET /provider.json?city=%E4%B8%8A%E6%B5%B7
+D, [2018-02-28T15:17:40.931231 #67019] DEBUG -- : {
+  "description": "new_padrino2接受一个获取json数据的http请求",
+  "providerState": "new_padrino2将返回json数据",
+  "request": {
+    "method": "get",
+    "path": "/provider.json",
+    "query": "city=%E4%B8%8A%E6%B5%B7"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "body": {
+      "城市": "上海",
+      "天气": "晴",
+      "温度": "20度"
+    }
+  }
+}
+I, [2018-02-28T15:17:40.940140 #67019]  INFO -- : Received request GET /provider.json?city=%E4%B8%8A%E6%B5%B7
+D, [2018-02-28T15:17:40.940507 #67019] DEBUG -- : {
+  "path": "/provider.json",
+  "query": "city=%E4%B8%8A%E6%B5%B7",
+  "method": "get",
+  "headers": {
+    "Accept-Encoding": "gzip;q=1.0,deflate;q=0.6,identity;q=0.3",
+    "Accept": "*/*",
+    "User-Agent": "Ruby",
+    "Connection": "close",
+    "Host": "localhost:3000",
+    "Version": "HTTP/1.1"
+  }
+}
+I, [2018-02-28T15:17:40.940943 #67019]  INFO -- : Found matching response for GET /provider.json?city=%E4%B8%8A%E6%B5%B7
+D, [2018-02-28T15:17:40.941201 #67019] DEBUG -- : {
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "城市": "上海",
+    "天气": "晴",
+    "温度": "20度"
+  }
+}
+I, [2018-02-28T15:17:40.948698 #67019]  INFO -- : Verifying - interactions matched for example "User 测试从new_padrino2得到json_data数据 期望能够从服务提供者处得到处理后的json数据"
+I, [2018-02-28T15:17:40.954150 #67019]  INFO -- : Writing pact for new padrino2 to /home/zzh/padrino_test/new_padrino1/spec/pacts/new_padrino1-new_padrino2.json

@@ -1,0 +1,42 @@
+I, [2018-02-24T14:18:44.255151 #41780]  INFO -- : Cleared interactions for example "User pact with provider can process the json payload from the provider"
+I, [2018-02-24T14:18:44.259505 #41780]  INFO -- : Registered expected interaction GET /provider.string?valid_date=string123
+D, [2018-02-24T14:18:44.259767 #41780] DEBUG -- : {
+  "description": "a request for provider string",
+  "providerState": "provider is in a sane state",
+  "request": {
+    "method": "get",
+    "path": "/provider.string",
+    "query": "valid_date=string123"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "text/html;charset=utf-8"
+    },
+    "body": "string123"
+  }
+}
+I, [2018-02-24T14:18:44.294731 #41780]  INFO -- : Received request GET /provider.string?valid_date=string123
+D, [2018-02-24T14:18:44.295081 #41780] DEBUG -- : {
+  "path": "/provider.string",
+  "query": "valid_date=string123",
+  "method": "get",
+  "headers": {
+    "Accept-Encoding": "gzip;q=1.0,deflate;q=0.6,identity;q=0.3",
+    "Accept": "*/*",
+    "User-Agent": "Ruby",
+    "Connection": "close",
+    "Host": "localhost:3000",
+    "Version": "HTTP/1.1"
+  }
+}
+I, [2018-02-24T14:18:44.295346 #41780]  INFO -- : Found matching response for GET /provider.string?valid_date=string123
+D, [2018-02-24T14:18:44.295552 #41780] DEBUG -- : {
+  "status": 200,
+  "headers": {
+    "Content-Type": "text/html;charset=utf-8"
+  },
+  "body": "string123"
+}
+I, [2018-02-24T14:18:44.300448 #41780]  INFO -- : Verifying - interactions matched for example "User pact with provider can process the json payload from the provider"
+I, [2018-02-24T14:18:44.307254 #41780]  INFO -- : Writing pact for 提供者 to /home/zzh/padrino_test/new_padrino1/spec/pacts/消费者-提供者.json
